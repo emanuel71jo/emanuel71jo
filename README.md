@@ -29,4 +29,5 @@
 </p>
 
 <br />
+
 ![João Emanuel](https://github-readme-stats.vercel.app/api?username=emanuel71jo&show_icons=true)
