@@ -6,7 +6,7 @@
   Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
 </p>
 <p>
-  Tenho experiência na área de Ciência da Computação, com ênfase em Ciência da Computação, desenvolvimento Web com HTML, CSS, JavaScript, ReactJs e NestJs, desenvolvimento Backend com NodeJs, desenvolvimento Mobile com React Native e conhecimento sobre os bancos de dados MySQL, PostgreSQL, MongoDB e Redis.
+  Tenho experiência na área de Ciência da Computação, com ênfase em Ciência da Computação, desenvolvimento Web com HTML, CSS, JavaScript, ReactJs e NextJs, desenvolvimento Backend com NodeJs, desenvolvimento Mobile com React Native e conhecimento sobre os bancos de dados MySQL, PostgreSQL, MongoDB e Redis.
 </p>
 
 #### :rocket: Linguagens e Frameworks
